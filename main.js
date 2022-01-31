@@ -126,7 +126,7 @@ login({ appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8')) }, (err, 
                     }, true);
                 }
                 else {
-                    api.setMessageReaction("😘", event.messageID, (err) => {
+                    api.setMessageReaction("🤡", event.messageID, (err) => {
                     }, true);
                 }
                 let msgid = event.messageID
@@ -205,7 +205,7 @@ login({ appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8')) }, (err, 
 
 
                     else if (input.toUpperCase().includes("COD")) {
-                        api.sendMessage("COD kapa duling ka naman😆 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("COD kapa wala naman papatol sayo😆 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
