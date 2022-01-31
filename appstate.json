@@ -1,0 +1,83 @@
+[
+    {
+        "key": "sb",
+        "value": "dtL1YUO-OQqhQO0I64hWbokn",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-01-31T15:49:51.636Z",
+        "lastAccessed": "2022-01-31T15:49:51.636Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-01-31T15:49:51.636Z",
+        "lastAccessed": "2022-01-31T15:49:51.636Z"
+    },
+    {
+        "key": "wd",
+        "value": "1920x937",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-01-31T15:49:51.636Z",
+        "lastAccessed": "2022-01-31T15:49:51.636Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100074457226782",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-01-31T15:49:51.636Z",
+        "lastAccessed": "2022-01-31T15:49:51.636Z"
+    },
+    {
+        "key": "spin",
+        "value": "r.1004998640_b.trunk_t.1643644183_s.1_v.2_",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-01-31T15:49:51.636Z",
+        "lastAccessed": "2022-01-31T15:49:51.636Z"
+    },
+    {
+        "key": "datr",
+        "value": "EwX4YZuJvY36W2PbKglTKV6v",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-01-31T15:49:51.636Z",
+        "lastAccessed": "2022-01-31T15:49:51.636Z"
+    },
+    {
+        "key": "xs",
+        "value": "42%3Atxn5LFfRrK4EVg%3A2%3A1643644176%3A-1%3A-1%3A%3AAcUDl0PUD4czk-1-6eaYu0fodt20h0D_-UnLGdWL9A",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-01-31T15:49:51.636Z",
+        "lastAccessed": "2022-01-31T15:49:51.636Z"
+    },
+    {
+        "key": "fr",
+        "value": "0YsGZwFar25dk05Ia.AWX2MNoq4LWBhrlG4IXQ5Gjmxwc.Bh-AUY.VI.AAA.0.0.Bh-AUY.AWVtFz5S4kk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-01-31T15:49:51.636Z",
+        "lastAccessed": "2022-01-31T15:49:51.636Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1643644184879%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-01-31T15:49:51.636Z",
+        "lastAccessed": "2022-01-31T15:49:51.636Z"
+    }
+]
