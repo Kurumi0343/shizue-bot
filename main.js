@@ -126,7 +126,7 @@ login({ appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8')) }, (err, 
                     }, true);
                 }
                 else {
-                    api.setMessageReaction("🤡", event.messageID, (err) => {
+                    api.setMessageReaction("😎", event.messageID, (err) => {
                     }, true);
                 }
                 let msgid = event.messageID
@@ -164,7 +164,7 @@ login({ appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8')) }, (err, 
                     }, true);
                 }
                 else {
-                    api.setMessageReaction("😹", event.messageID, (err) => {
+                    api.setMessageReaction("🤡", event.messageID, (err) => {
                     }, true);
                 }
                 if (event.attachments.length != 0) {
@@ -200,22 +200,22 @@ login({ appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8')) }, (err, 
 
 
                     else if (input.toUpperCase().includes("ML")) {
-                        api.sendMessage("ML ka nalang walang Jowa😆 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("ML ka nalang walang Jowa😂 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
                     else if (input.toUpperCase().includes("COD")) {
-                        api.sendMessage("COD kapa wala naman papatol sayo😆 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("COD kapa wala naman papatol sayo😂 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
                     else if (input.toUpperCase().includes("BR")) {
-                        api.sendMessage("BR ng BR di naman nang iinvite😆 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("BR ng BR di naman nang iinvite😂 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
                     else if (input.toUpperCase().includes("BOLD")) {
-                        api.sendMessage("Nood BOLD wala kasi Jowa😆 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("Nood BOLD wala kasi Jowa😂 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
@@ -225,32 +225,32 @@ login({ appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8')) }, (err, 
 
 
                     else if (input.toUpperCase().includes("HAHA")) {
-                        api.sendMessage("Tawa ng Tawa nakaka bwisit AMP😆 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("Tawa ng Tawa nakaka bwisit AMP😂 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
                     else if (input.toUpperCase().includes("SEND")) {
-                        api.sendMessage("anong i send Nudes ko😆 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("anong i send Nudes ko😂 \n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
                     else if (input.toUpperCase().includes("POGI")) {
-                        api.sendMessage("Pssst! Wampepte😆 \n\n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("Pssst! Wampepte😂 \n\n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
                     else if (input.toUpperCase().includes("KANTUTAN")) {
-                        api.sendMessage("May Pwet ka naman mag sarili ka nalang😆 \n\n\n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("May Pwet ka naman mag sarili ka nalang😂 \n\n\n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
                     else if (input.toUpperCase().includes("BOBO")) {
-                        api.sendMessage("mas BOBO ka Tang ina MO😆 \n\n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("mas BOBO ka Tang ina MO😂 \n\n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
                     else if (input.toUpperCase().includes("RG")) {
-                        api.sendMessage("Tara RG sino ba naman ako para isama😆 \n\n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
+                        api.sendMessage("Tara RG sino ba naman ako para isama😂 \n\n\n✪ 𝙈𝙄𝙇𝙄𝙈  𝙁𝘽  𝘽𝙊𝙏 ✪", event.threadID, event.messageID);
                     }
 
 
@@ -325,7 +325,7 @@ login({ appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8')) }, (err, 
                     else if (input.startsWith("-play")) {
                         let data = input.split(" ");
                         if (data.length < 2) {
-                            api.sendMessage("Invalid Use Of Command!\n💡Usage: -play music_title", event.threadID);
+                            api.sendMessage("Invalid Use Of Command!\Usage: -play music_title", event.threadID);
                         } else {
                             if (!(vips.includes(event.senderID))) {
                                 if (!(event.senderID in cd)) {
